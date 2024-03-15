@@ -1,5 +1,6 @@
-### Hi there 👋
 
+### Hello, World! :milky_way:
+![Barney Stinson alt](https://media.giphy.com/media/vTxWtmX2b0oH6/giphy.gif)
 <!--
 **ramgirhe02/ramgirhe02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
