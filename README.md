@@ -1,7 +1,12 @@
 
 ### Hello, World! :milky_way:
 ![Barney Stinson alt](https://media.giphy.com/media/vTxWtmX2b0oH6/giphy.gif)
+
+<p><img align="center" src="https://leetcode-stats-six.vercel.app/?username=ramgirhe02&theme=dark" alt="shamgirhe" /></p>
+
 <!--
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramgirhe02&" alt="shamgirhe" />
+)](https://github.com/KnlnKS/leetcode-stats)
 **ramgirhe02/ramgirhe02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
