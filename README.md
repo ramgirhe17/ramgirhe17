@@ -3,6 +3,10 @@
 ![Barney Stinson alt](https://media.giphy.com/media/vTxWtmX2b0oH6/giphy.gif)
 
 
+<p><img align="center" src="https://leetcode-stats-six.vercel.app/?username=ramgirhe02&theme=dark" alt="shamgirhe" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamgirhe&layout=donut" alt="shamgirhe" /></p>
+
+
 
 <!--
 <p><img align="center" src="https://leetcode-stats-six.vercel.app/?username=ramgirhe02&theme=dark" alt="shamgirhe" /></p>
